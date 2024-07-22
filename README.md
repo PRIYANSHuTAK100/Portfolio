@@ -1,1 +1,2 @@
-# e-commerce
+# Portfolio
+To showcase my skills, experience and projects.
